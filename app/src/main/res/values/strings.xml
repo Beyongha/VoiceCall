@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VoiceCall</string>
+    <string name="contactAddress">SIP Address to contact</string>
+    <string name="talk">Talk</string>
+</resources>
